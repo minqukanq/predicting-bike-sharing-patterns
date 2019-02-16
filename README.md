@@ -199,7 +199,7 @@ rides[:24*10].plot(x='dteday', y='cnt')
 
 
 
-![png](Your_first_neural_network_files/Your_first_neural_network_6_1.png)
+![png](output_6_1.png)
 
 
 ### Dummy variables
@@ -743,7 +743,7 @@ _ = plt.ylim()
 ```
 
 
-![png](Your_first_neural_network_files/Your_first_neural_network_22_0.png)
+![png](output_22_0.png)
 
 
 ## Check out your predictions
@@ -768,7 +768,7 @@ _ = ax.set_xticklabels(dates[12::24], rotation=45)
 ```
 
 
-![png](Your_first_neural_network_files/Your_first_neural_network_24_0.png)
+![png](output_24_0.png)
 
 
 ## OPTIONAL: Thinking about your results(this question will not be evaluated in the rubric).
